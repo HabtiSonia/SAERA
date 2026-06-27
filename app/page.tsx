@@ -83,7 +83,7 @@ export default function Home() {
           style={{ color: "var(--beige)" }}
           className="text-3xl font-light mb-8"
         >
-          Contactez-nous sur WhatsApp
+          Contactez-nous sur Vinted
         </h2>
         <a
           href="https://www.vinted.fr/member/270549728-saraahbt01"
