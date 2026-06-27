@@ -10,3 +10,24 @@
 7. data/ → données statiques (JSON)
 8. npm run dev → tester en local
 9. Vercel → mettre en ligne
+
+
+GIT 
+#Se connecter au Github
+git config --global user.name "Ton Nom"
+git config --global user.email "ton@email.com"
+
+#Preparer le code 
+git init
+git add .
+git commit -m "premier commit - site SAERA"
+
+#Pousser le code 
+git remote add origin https://github.com/TON-USERNAME/saera.git
+git branch -M main
+git push -u origin main
+
+#Pousser du code apres MAJ
+git add .
+git commit -m "description de ce que tu as changé"
+git push
