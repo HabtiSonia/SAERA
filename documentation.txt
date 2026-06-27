@@ -1,0 +1,12 @@
+
+#Etape à la creation de nouveau projet 
+
+1. create-next-app → structure de base
+2. globals.css → couleurs et styles globaux
+3. layout.tsx → navbar + footer communs
+4. page.tsx → page d'accueil
+5. app/[page]/page.tsx → autres pages
+6. components/ → morceaux réutilisables
+7. data/ → données statiques (JSON)
+8. npm run dev → tester en local
+9. Vercel → mettre en ligne

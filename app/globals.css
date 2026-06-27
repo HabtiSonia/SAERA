@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+:root {
+  --or: #C9A84C;
+  --noir: #0d0d0df1;
+  --beige: #F5F0E8;
+  --beige-clair: #FAF7F2;
+  --bordeaux: #6B1E2E;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--beige-clair);
+  color: var(--noir);
+  font-family: 'Georgia', serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}

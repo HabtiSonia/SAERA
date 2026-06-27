@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "slug": "robe-kabyle-noire-broderies-rouges",
+    "nom": "Robe kabyle noire broderies rouges",
+    "prix": 120,
+    "disponible": true,
+    "tailles": ["XS", "S", "M", "L", "XL"],
+    "couleur": "Noir et rouge",
+    "description": "Robe kabyle moderne à fond noir ornée de broderies rouges et dorées. Coupe fluide et élégante, parfaite pour les mariages et cérémonies.",
+    "images": ["/images/robe1.jpeg"]
+  },
+  {
+    "id": "2",
+    "slug": "robe-kabyle-kaki-broderies-oranges",
+    "nom": "Robe kabyle kaki broderies oranges",
+    "prix": 135,
+    "disponible": true,
+    "tailles": ["S", "M", "L", "XL"],
+    "couleur": "Kaki et orange",
+    "description": "Robe kabyle contemporaine couleur kaki avec broderies orangées et ceinture assortie. Silhouette moderne qui sublime la tradition berbère.",
+    "images": ["/images/robe2.jpeg"]
+  }
+]
